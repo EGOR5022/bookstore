@@ -32,7 +32,7 @@ const books = {
     characteristics: {
       coverType: "Мягкий переплет",
       pageCount: 208,
-      publisher: "Издательство Студии Артемия Лебедева",
+      publisher: "Издательство",
       year: 2019,
       isbn: "978-5-98062-000-1"
     },
